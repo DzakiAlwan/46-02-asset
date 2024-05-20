@@ -1,0 +1,8 @@
+[
+    {"nama": "anjing", "deskripsi": "anjing cantik", "imageId": "anjing"},
+    {"nama": "Harimau", "deskripsi": "Harimau minum", "imageId": "harimau"},
+    {"nama": "Paus", "deskripsi": "Paus menari", "imageId": "paus"},
+    {"nama": "Merpati", "deskripsi": "Merpati makan", "imageId": "merpati"},
+    {"nama": "Zebra", "deskripsi": "Zebra bersembunyi", "imageId": "zebra"}
+   
+]
